@@ -2,6 +2,11 @@
 
 一款简洁易用的屏幕录制工具，支持导出视频和GIF。
 
+<img width="650" height="834" alt="image" src="https://github.com/user-attachments/assets/42f1ddb2-6814-4437-9ba3-9d12ff9e8d04" />
+<img width="650" height="798" alt="image" src="https://github.com/user-attachments/assets/9091527b-155a-427a-8a22-6ccaa58bfa6e" />
+
+
+
 ## 功能特点
 
 - 🎬 全屏录制
