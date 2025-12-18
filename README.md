@@ -27,12 +27,12 @@ python main.py
 ## 打包为 EXE
 
 ### 方法一：使用批处理文件
-双击运行 `build.bat`
+双击运行 `.\build_venv.bat`
 
 ### 方法二：手动打包
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed --name "屏幕录制工具" main.py
+pyinstaller --clean screen_recorder.spec
 ```
 
 打包完成后，exe文件位于 `dist` 目录下。
